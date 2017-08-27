@@ -1,0 +1,24 @@
+{
+  "name": "functional-programming-javascript-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "f_closure.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node f_currying.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darknight19910/Functional-Programming-Javascript-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darknight19910/Functional-Programming-Javascript-/issues"
+  },
+  "homepage": "https://github.com/darknight19910/Functional-Programming-Javascript-#readme"
+}

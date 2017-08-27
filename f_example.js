@@ -24,3 +24,5 @@ console.log(dog);
 
 // example 3 map
 var names = animals.map((animal)=>animal.name);
+
+console.log(names);
