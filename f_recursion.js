@@ -5,3 +5,4 @@ let countDownFrom = (num) => {
 };
 
 countDownFrom(10);
+

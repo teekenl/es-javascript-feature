@@ -1,6 +1,4 @@
 
-
-
 // Note this is new feature in ES6 version
 // Make sure your editor supports ES6 version to run this.
 /*let run = function(generator){
@@ -12,3 +10,4 @@
 run(function*() {
     const x = yield 0;
 });*/
+
