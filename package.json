@@ -9,8 +9,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node f_currying.js"
+    "test": "mocha f_dependencyInjection.js",
+    "start": "node f_currying.js",
+	"build": ""
   },
   "repository": {
     "type": "git",
