@@ -34,7 +34,6 @@ describe('getanimals', ()=> {
                 })
             });
         };
-
         getanimals(fakeFetch, 12345)
             .then(result => {
                 assert(result.name === 'fluffyskins');
