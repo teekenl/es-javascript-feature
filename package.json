@@ -8,7 +8,7 @@
     "express-graphql": "^0.6.11",
     "graphql": "^0.11.3",
     "lodash": "^4.17.4",
-    "mocha": "^3.5.0",
+    "mocha": "^3.5.3",
     "node-fetch": "^1.7.3",
     "util": "^0.10.3",
     "xml2js": "^0.4.19"
