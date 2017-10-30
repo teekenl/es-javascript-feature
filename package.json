@@ -13,7 +13,11 @@
     "util": "^0.10.3",
     "xml2js": "^0.4.19"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-decorators": "^6.24.1"
+  },
   "scripts": {
     "test": "mocha f_dependencyInjection.js",
     "start": "node f_currying.js",
