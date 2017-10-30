@@ -47,6 +47,8 @@ class ComicBookCharacter{
     }
 }
 
+// reference to: https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841
+
 const batman = new ComicBookCharacter('Bruce', 'Wayne');
 batman.addToBelt('batarang');
 batman.addToBelt('cape');

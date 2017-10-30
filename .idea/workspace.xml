@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56624452-52e7-4df8-bf1f-f4482117fe5c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f_decorator.js" afterPath="$PROJECT_DIR$/f_decorator.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,8 +49,8 @@
       <file leaf-file-name="f_decorator.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/f_decorator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="786">
-              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state relative-caret-position="321">
+              <caret line="49" column="91" lean-forward="false" selection-start-line="49" selection-start-column="91" selection-end-line="49" selection-end-column="91" />
               <folding />
             </state>
           </provider>
@@ -238,12 +236,12 @@
       <workItem from="1505301671212" duration="607000" />
       <workItem from="1506167680960" duration="4083000" />
       <workItem from="1506209376029" duration="4009000" />
-      <workItem from="1509361437762" duration="3271000" />
+      <workItem from="1509361437762" duration="3370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30803000" />
+    <option name="totallyTimeSpent" value="30902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -635,8 +633,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/f_decorator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="786">
-          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        <state relative-caret-position="321">
+          <caret line="49" column="91" lean-forward="false" selection-start-line="49" selection-start-column="91" selection-end-line="49" selection-end-column="91" />
           <folding />
         </state>
       </provider>
